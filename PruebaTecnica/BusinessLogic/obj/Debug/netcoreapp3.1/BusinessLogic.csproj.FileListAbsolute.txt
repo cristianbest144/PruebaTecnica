@@ -1,0 +1,14 @@
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\bin\Debug\netcoreapp3.1\Entities.dll
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\bin\Debug\netcoreapp3.1\Services.dll
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\bin\Debug\netcoreapp3.1\Services.pdb
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\PruebaTecnica\PruebaTecnica\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

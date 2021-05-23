@@ -1,0 +1,8 @@
+C:\PruebaTecnica\PruebaTecnica\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\PruebaTecnica\PruebaTecnica\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\PruebaTecnica\PruebaTecnica\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\PruebaTecnica\PruebaTecnica\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\PruebaTecnica\PruebaTecnica\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\PruebaTecnica\PruebaTecnica\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\PruebaTecnica\PruebaTecnica\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\PruebaTecnica\PruebaTecnica\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
